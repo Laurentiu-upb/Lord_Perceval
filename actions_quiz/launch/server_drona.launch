@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="actiune_drona" type="drona_actiune_server.py" name="server_actiune_drona" output="screen" />
+</launch>
